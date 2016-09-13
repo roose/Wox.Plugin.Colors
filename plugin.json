@@ -1,0 +1,15 @@
+{
+    "ID": "ACB8A26F22D540D6B6F0ADBA1AF2CBAB",
+    "ActionKeywords": [
+        "c",
+        "colors"
+    ],
+    "Name": "colors",
+    "Description": "Converts color formats (e.g. green \u001A #008000) Works only with Wox > 1.3.0",
+    "Author": "roose",
+    "Version": "0.1.0",
+    "Language": "executable",
+    "Website": "https://github.com/roose/Wox.Plugin.Colors",
+    "IcoPath": "Images\\colors.png",
+    "ExecuteFileName": "color.exe"
+}
